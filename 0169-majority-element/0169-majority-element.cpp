@@ -13,7 +13,7 @@ public:
                 count += (candidate == num) ? 1 : -1;
             }
         }
-
+        
         return candidate;
     }
 };
