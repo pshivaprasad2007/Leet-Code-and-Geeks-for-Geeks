@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
