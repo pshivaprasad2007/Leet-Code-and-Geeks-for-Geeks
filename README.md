@@ -41,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0709-to-lower-case) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
