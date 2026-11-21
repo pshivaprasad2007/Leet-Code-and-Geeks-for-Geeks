@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0704-binary-search) |
 ## Binary Search
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -51,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0206-reverse-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/pshivaprasad2007/Leet-Code-and-Geeks-for-Geeks/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
